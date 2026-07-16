@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-bc8lx4.newsyourday.com/sitemap.xml
